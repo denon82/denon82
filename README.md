@@ -1,5 +1,6 @@
 #Projeto denon82
 [![Build Status](https://travis-ci.org/denon82/denon82.svg?branch=master)](https://travis-ci.org/denon82/denon82)
+[![Code Climate](https://codeclimate.com/github/denon82/denon82/badges/gpa.svg)](https://codeclimate.com/github/denon82/denon82)
 
 Bem vindo ao projeto Denon82
 
